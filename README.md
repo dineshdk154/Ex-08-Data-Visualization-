@@ -298,6 +298,3 @@ Relation Between Sales And Profit Based On The Following Category
 
 # Result
 Thus using the given dataset data visualization is performed for following questions.
-
-
-
